@@ -1,4 +1,4 @@
-# Hi, I'm Fitzroy Johnson 👋
+# Hi, This is Fitzroy👋
 
 **Maximo Developer & Solution Architect** | Enterprise Asset Management + AI-augmented engineering
 
