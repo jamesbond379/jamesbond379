@@ -69,7 +69,7 @@ The part I'm most excited about right now: making AI coding assistants genuinely
 ## 📫 Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/FitzroyJohnson/)
-- ✉️ FitzroyJohnson007@gmail.com
+- ✉️ JamesBond379@aol.com
 - <img src="assets/github.svg" height="16" alt="GitHub" /> [GitHub.com/jamesbond379](https://github.com/jamesbond379)
 
 > Most of my recent work lives in **private repositories** (proprietary enterprise tooling), so this profile is intentionally light on public code. Happy to talk through the work in more detail.
