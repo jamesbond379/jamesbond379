@@ -1,4 +1,19 @@
-# This folder is only the source for the public GitHub profile README.
-# Keep private documents (resume, etc.) out of the public repo.
-*.docx
-*.pdf
+# This folder is the source for the PUBLIC GitHub profile README
+# (github.com/jamesbond379), AND it hosts the private FitzJobs pipeline.
+#
+# To guarantee no pipeline file, resume, DB artifact, or job folder ever leaks
+# into the public profile repo, we WHITELIST: ignore everything, then explicitly
+# un-ignore only the profile assets.
+
+# 1) Ignore everything by default.
+*
+
+# 2) Un-ignore the profile README and its icon assets.
+!.gitignore
+!README.md
+!assets/
+!assets/**
+
+# (Everything else — fitz_*.py, *.bat, fitz_profile.json, bridge/, FitzJob */,
+#  *.docx, *.pdf, jobs_input.json, scores*.json, run_log.txt, the venv, etc. —
+#  stays out of the public profile repo.)
