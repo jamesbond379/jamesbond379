@@ -1,0 +1,4 @@
+# This folder is only the source for the public GitHub profile README.
+# Keep private documents (resume, etc.) out of the public repo.
+*.docx
+*.pdf
