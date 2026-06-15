@@ -2,7 +2,7 @@
 
 **Maximo Developer & Solution Architect** | Enterprise Asset Management + AI-augmented engineering
 
-I build and customize **IBM Maximo (EAM)** for a public water/wastewater utility, and I'm increasingly focused on the intersection of enterprise platform development and **AI-assisted software engineering** — including custom developer tooling that puts large-language-model assistants to work inside a real delivery workflow.
+I build and customize **IBM Maximo (EAM)** for a water/wastewater utility company, and I'm increasingly focused on the intersection of enterprise platform development and **AI-assisted software engineering** — including custom developer tooling that puts large-language-model assistants to work inside a real delivery workflow.
 
 Before Maximo, I spent ~18 years as an IT / Solution Architect delivering large-scale public-sector applications, so I tend to approach development with an architecture-first, standards-driven mindset.
 
